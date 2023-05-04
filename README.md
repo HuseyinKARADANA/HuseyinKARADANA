@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 20 years old and live in İzmir.<br>I'm know Java and C# programming language.<br><br>
+I'm 20 years old and live in İzmir.<br>I will software engineer.<br>I'm know Java and C# programming language.<br><br>
 
 
 ## 🌐 Socials:
