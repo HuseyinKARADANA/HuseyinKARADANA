@@ -88,7 +88,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/corgi-computer-typing-gif-5104411"  />
+<img align="right" height="150" src="https://media.tenor.com/58DNSt-Lvw0AAAAM/corgi-computer.gif"  />
 
 ###
 
