@@ -98,13 +98,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HuseyinKARADANA/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/HuseyinKARADANA/HuseyinKARADANA/output/snake.svg" alt="Snake animation" />
-
-###
